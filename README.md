@@ -33,9 +33,7 @@ Here's a walkthrough of implemented features:
 
 
 
-https://imgur.com/a/SiKu1Gv
-
-`<!-- Replace this with whatever GIF tool you used! -->`
+https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXRvYjJ3ZHltY21hYjJnZXpoYmsxajd6dXgwZHdiZW11bXN1Y2lidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9rt6OkerwZU7fevBU3/giphy.gif
 
 GIF created with LiceCap
 
