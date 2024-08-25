@@ -32,9 +32,10 @@ Here's a walkthrough of implemented features:
 * Show All Games Button display all games
 
 
-<img src='https://imgur.com/a/SiKu1Gv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
+https://imgur.com/a/SiKu1Gv
+
+`<!-- Replace this with whatever GIF tool you used! -->`
 
 GIF created with LiceCap
 
