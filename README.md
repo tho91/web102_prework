@@ -31,11 +31,13 @@ Here's a walkthrough of implemented features:
 * Show Funded Only Button display the funded games
 * Show All Games Button display all games
 
+Features that did not show:
 
+* Top Game and Runner Up title did not display.
 
-https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXRvYjJ3ZHltY21hYjJnZXpoYmsxajd6dXgwZHdiZW11bXN1Y2lidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9rt6OkerwZU7fevBU3/giphy.gif
+https://youtu.be/hA-_5nle29M
 
-GIF created with LiceCap
+GIF created with Window Capture
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
